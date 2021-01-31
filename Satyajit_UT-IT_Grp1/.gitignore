@@ -1,0 +1,10 @@
+target/
+.idea/
+.bsp/
+Q1&2/.idea
+Q1&2/.bsp
+Q1&2/target
+Q1&2/project/target
+project/target
+
+
